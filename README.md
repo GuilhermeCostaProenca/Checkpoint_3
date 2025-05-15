@@ -61,4 +61,4 @@ O objetivo do projeto é **aumentar a eficiência no suporte técnico**, promove
 
 ## 📝 Instruções para o professor:
 
-Todos os artefatos estão organizados na branch `develop`, na pasta `DesenhoTecnico`. O README foi editado conforme as orientações. Cada integrante enviará seu link na área de entrega do Portal do Aluno.
+ O README foi editado conforme as orientações. Cada integrante enviará seu link na área de entrega do Portal do Aluno.
